@@ -1,0 +1,6 @@
+REST API
+
+REST API yaitu salah satu arsitektur yang ada di API (Application Programming Interface). 
+Untuk REST (Representational State Transfer) menggunakan HTTP sebagai media pertukaran data.
+Apliksi aplikasi yang memakai hal tersebut, yang diharapkan dapat melakukan pertukaran data secara
+efektif. Kemudian perfoma setiap penggunaanya akan terasa cepat dan bisa dengan mudah.
