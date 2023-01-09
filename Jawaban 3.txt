@@ -1,0 +1,8 @@
+HEADLESS ARCHITECTURE
+
+Headless architecture adalah konsep pengembangan software yang memisahkan 
+lapisan frontend (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) 
+situs web. Bahkan sebagian besar bisnis dewasa mendapatkan kemampuan manuver 
+dan fleksibilitas dari sebuah startup.
+
+Kelebihan dibandinkan menyajikan frontend secara langsung
